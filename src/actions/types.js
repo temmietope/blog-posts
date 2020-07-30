@@ -1,0 +1,5 @@
+export const GET_POSTS_SUCCESS = 'GET_POSTS_SUCCESS'
+export const GET_POSTS_FAILURE = 'GET_POSTS_FAILURE'
+export const GET_SUBREDDIT = 'GET_SUBREDDIT'
+export const SET_LOADING = 'SET_LOADING'
+export const SET_FILTER = 'SET_FILTER'
